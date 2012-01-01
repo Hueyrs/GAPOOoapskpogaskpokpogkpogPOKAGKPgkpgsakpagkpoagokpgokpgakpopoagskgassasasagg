@@ -1,0 +1,23 @@
+<list>
+  <itemSpawn>
+    <item>
+      <id>223</id>
+      <count>1</count>
+    </item>
+    <location>
+      <x>2832</x>
+      <y>9585</y>
+      <z>0</z>
+    </location>
+  </itemSpawn>
+  <itemSpawn>
+    <item>
+      <id>245</id>
+      <count>1</count>
+    </item>
+    <location>
+      <x>2933</x>
+      <y>3518</y>
+    </location>
+  </itemSpawn>
+</list>

@@ -1,0 +1,517 @@
+<regionmusic>
+	<region>
+		<position>76, 98</position>
+		<music>110</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>76, 100</position>
+		<music>41</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>76, 101</position>
+		<music>41</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>78, 113</position>
+		<music>320</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>80, 102</position>
+		<music>99</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>80, 103</position>
+		<music>99</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>80, 108</position>
+		<music>109</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>80, 109</position>
+		<music>109</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>81, 109</position>
+		<music>109</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>82, 108</position>
+		<music>140</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>82, 109</position>
+		<music>140</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>83, 108</position>
+		<music>140</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>83, 109</position>
+		<music>140</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>85, 105</position>
+		<music>192</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>86, 109</position>
+		<music>104</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>90, 106</position>
+		<music>18</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>90, 107</position>
+		<music>18</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>90, 108</position>
+		<music>18</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>91, 100</position>
+		<music>12</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>91, 107</position>
+		<music>18</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>91, 108</position>
+		<music>18</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>92, 98</position>
+		<music>92</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>92, 99</position>
+		<music>180</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>92, 100</position>
+		<music>12</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>92, 101</position>
+		<music>127</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>92, 102</position>
+		<music>127</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>92, 104</position>
+		<music>186</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>93, 97</position>
+		<music>515</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>93, 98</position>
+		<music>180</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>93, 99</position>
+		<music>180</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>93, 101</position>
+		<music>127</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>93, 104</position>
+		<music>72</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>93, 107</position>
+		<music>310</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>94, 100</position>
+		<music>35</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>94, 107</position>
+		<music>310</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>95, 95</position>
+		<music>62</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>95, 96</position>
+		<music>62</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>95, 97</position>
+		<music>62</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>96, 95</position>
+		<music>62</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>96, 96</position>
+		<music>62</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>96, 97</position>
+		<music>62</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>96, 98</position>
+		<music>85</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>96, 101</position>
+		<music>3</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>96, 106</position>
+		<music>141</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>96, 107</position>
+		<music>141</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>96, 122</position>
+		<music>13</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>96, 123</position>
+		<music>13</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>97, 95</position>
+		<music>62</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>97, 96</position>
+		<music>62</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>97, 97</position>
+		<music>62</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>97, 98</position>
+		<music>85</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>97, 100</position>
+		<music>327</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>97, 102</position>
+		<music>327</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>97, 103</position>
+		<music>2</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>97, 122</position>
+		<music>13</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>97, 123</position>
+		<music>13</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>98, 96</position>
+		<music>62</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>98, 97</position>
+		<music>62</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>98, 98</position>
+		<music>64</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>98, 99</position>
+		<music>64</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>98, 100</position>
+		<music>327</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>98, 101</position>
+		<music>327</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>98, 102</position>
+		<music>2</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>98, 103</position>
+		<music>163</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>99, 98</position>
+		<music>64</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>99, 99</position>
+		<music>64</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>99, 101</position>
+		<music>327</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>99, 102</position>
+		<music>2</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>99, 103</position>
+		<music>163</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>99, 106</position>
+		<music>125</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>99, 107</position>
+		<music>125</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>100, 97</position>
+		<music>19</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>100, 98</position>
+		<music>64</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>100, 99</position>
+		<music>64</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>100, 100</position>
+		<music>76</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>100, 101</position>
+		<music>76</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>100, 105</position>
+		<music>106</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>100, 106</position>
+		<music>125</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>100, 107</position>
+		<music>125</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>100, 108</position>
+		<music>177</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>100, 109</position>
+		<music>177</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>101, 98</position>
+		<music>64</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>101, 99</position>
+		<music>64</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>101, 107</position>
+		<music>309</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>102, 98</position>
+		<music>50</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>102, 99</position>
+		<music>50</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>102, 102</position>
+		<music>123</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>102, 103</position>
+		<music>123</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>102, 106</position>
+		<music>157</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>102, 107</position>
+		<music>157</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>103, 98</position>
+		<music>50</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>103, 99</position>
+		<music>50</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>103, 101</position>
+		<music>122</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>103, 102</position>
+		<music>123</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>103, 103</position>
+		<music>123</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>103, 105</position>
+		<music>157</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>103, 106</position>
+		<music>157</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>104, 100</position>
+		<music>47</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>104, 101</position>
+		<music>47</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>104, 102</position>
+		<music>122</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>105, 100</position>
+		<music>47</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>105, 101</position>
+		<music>47</music>
+		<multiway>false</multiway>
+	</region>
+	<region>
+		<position>105, 102</position>
+		<music>122</music>
+		<multiway>false</multiway>
+	</region>
+</regionmusic>

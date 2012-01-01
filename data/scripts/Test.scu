@@ -1,0 +1,20 @@
+scriptBlock(startBlock) {
+	npcSay("Woman", 5, "Hello there %username, do you have 5k for me?")
+	option("Select an Option", "Yes I do", "No I do not")
+	fireDialogue()
+}
+
+scriptBlock(Yes I do) {
+	playerSay("%username", "Yes, here you go")
+	if(hasItem(995, 5000))
+		+delItem(995, 5000)
+		+npcSay("Woman", 5, "Thanks a lot!")
+		-npcSay("Woman", 5, "No you don't!")
+	fireDialogue()
+}
+
+scriptBlock(No I do not) {
+	playerSay("%username", "No I do not")
+	npcSay("Woman", 5, "You suck!")
+	fireDialogue()
+}
